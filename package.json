@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "neur": "neu run",
+        "neub": "neu build --release"
+    },
+}
